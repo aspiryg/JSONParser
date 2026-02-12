@@ -301,17 +301,17 @@ void example_api_response()
 int main()
 {
 	std::cout << R"(
-  ╔══════════════════════════════════════════════════════════╗
-  ║                                                          ║
-  ║              JSON Parser - Complete Examples            ║
-  ║                                                          ║
-  ║  A learning project demonstrating:                      ║
-  ║  • JSON parsing and serialization                       ║
-  ║  • Data structures (variant, map, vector)               ║
-  ║  • Tokenization and parsing algorithms                  ║
-  ║  • Error handling and type safety                       ║
-  ║                                                          ║
-  ╚══════════════════════════════════════════════════════════╝
+  ||==========================================================||
+  ||                                                          ||
+  ||             JSON Parser - Complete Examples              ||
+  ||                                                          ||
+  || A learning project demonstrating:                        ||
+  ||  • JSON parsing and serialization                      ||
+  ||  • Data structures (variant, map, vector)              ||
+  ||  • Tokenization and parsing algorithms                 ||
+  ||  • Error handling and type safety                      ||
+  ||                                                          ||
+  ||==========================================================||
 )";
 
 	try {
